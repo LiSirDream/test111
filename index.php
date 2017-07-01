@@ -9,3 +9,4 @@ echo 'Today,i am very bad';
 echo 'github';
 echo 'so bad!';
 echo '不好!';
+echo '很好!';
